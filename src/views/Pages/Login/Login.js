@@ -5,7 +5,7 @@ import { Button, Card, CardBody, CardGroup, Col, Container, Form, Input, InputGr
 class Login extends Component {
   render() {
     return (
-      <div className="app flex-row align-items-center">
+      <div className="app flex-row align-items-center login">
         <Container>
           <Row className="justify-content-center">
             <Col md="8">
